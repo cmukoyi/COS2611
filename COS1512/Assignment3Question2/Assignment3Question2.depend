@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1692574101 source:/Users/carl/Library/CloudStorage/OneDrive-UniversityofSouthAfrica/Unisa/Code/COS1512/Assignment3Question2/module.cpp
+	"module.h"
+	<iostream>
+	<string>
+
+1692574101 /Users/carl/Library/CloudStorage/OneDrive-UniversityofSouthAfrica/Unisa/Code/COS1512/Assignment3Question2/module.h
+	<string>
+

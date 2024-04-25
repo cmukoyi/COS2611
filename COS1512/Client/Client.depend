@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1694972749 source:/Users/carl/Library/CloudStorage/OneDrive-UniversityofSouthAfrica/Unisa/Code/COS1512/Client/main.cpp
+	<iostream>
+	<cstring>
+	<unistd.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+

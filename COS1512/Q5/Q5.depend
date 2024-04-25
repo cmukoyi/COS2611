@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1694960735 source:/Users/carl/Library/CloudStorage/OneDrive-UniversityofSouthAfrica/Unisa/Code/COS1512/Q5/main.cpp
+	<iostream>
+	<cstdlib>
+	"Dictionary.h"
+	<vector>
+
+1694960070 /Users/carl/Library/CloudStorage/OneDrive-UniversityofSouthAfrica/Unisa/Code/COS1512/Q5/Dictionary.h
+	<vector>
+	<string>
+	<iostream>
+
+1694960635 source:/Users/carl/Library/CloudStorage/OneDrive-UniversityofSouthAfrica/Unisa/Code/COS1512/Q5/src/Dictionary.cpp
+	"Dictionary.h"
+	<vector>
+	<iostream>
+
+1694960506 /Users/carl/Library/CloudStorage/OneDrive-UniversityofSouthAfrica/Unisa/Code/COS1512/Q5/include/Dictionary.h
+	<vector>
+	<string>
+	<iostream>
+
