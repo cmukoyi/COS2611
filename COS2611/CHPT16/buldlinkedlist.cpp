@@ -2,17 +2,10 @@
 
 using namespace std;
 
-struct nodeType
-{
-    /* data */
-nodeType *first, *last, *newNode;
-int num;
-
-};
-
 int main(){
-
-
+  cout << "This a test !!!!" << endl;
+ 
+  return 0;
 
 }
 
