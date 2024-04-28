@@ -12,7 +12,7 @@ int main(){
     mylist.AddNode(6);
     mylist.AddNode(8);
     mylist.AddNode(9);
-   // mylist.DeleteNode(8);
+    mylist.DeleteNode(8);
     mylist.PrintList();
     
    
